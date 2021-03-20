@@ -23,6 +23,6 @@ Sesión a cargo de [Alejandra Tapia Silva](https://twitter.com/aleants)
 
 :open_file_folder: [Repositorio](https://github.com/alejandraandrea/slides-xaringan-mixed-models)
 
-:tv: Video: ¡Pronto!
+:tv: [Video](https://vimeo.com/526381086)
 
 
